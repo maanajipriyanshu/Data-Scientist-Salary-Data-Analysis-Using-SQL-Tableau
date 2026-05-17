@@ -1,4 +1,4 @@
-# Data-Scientist-Salary-Data-Analysis-Using-SQL-Tableau
+# Data-Scientist-Salary-Data-Analysis-Using-SQL and Tableau
 
 # TABLEAU
 
